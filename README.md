@@ -58,9 +58,13 @@ sharing happened through open-source.
   width="50%"
 />
 
-- 🔭 I’m currently taking ALX **bootcamp** - 🌱 I’m currently learning
-**Back-end frameworks** - 👯 I’m looking to collaborate on **front-end
-projects** - 🤝 I’m looking for help with **mentorship** - ⚡ Fun fact **all my
+- 🔭 I’m currently taking ALX **bootcamp**
+- 🌱 I’m currently learning
+**Back-end frameworks**
+- 👯 I’m looking to collaborate on **front-end
+projects**
+- 🤝 I’m looking for help with **mentorship**
+- ⚡ Fun fact **all my
 codes are 40% me + 30% stackoverflow +30% google.+ 30%%**
 
 <h3 align="left">Connect with me:</h3>
