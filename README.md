@@ -23,11 +23,12 @@ passionate about building fully functional web-applications. I am good in data
 structure and algorithms. - I am also an open-source enthusiast. I learned a lot
 from the open-source community and I love how collaboration and knowledge
 sharing happened through open-source.
-
+<p align="center">
 <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=21&pause=1000&color=4B33F7&width=435&lines=Fullstack+web+developer+from+Kenya.;Turns+ideas+into+reality!;Loves+the+open-source+community."
     alt="Typing SVG"
 /></a>
+</p>
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
