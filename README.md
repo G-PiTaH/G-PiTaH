@@ -8,7 +8,7 @@
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="28"
   />
-  I'm <a href="https://www.linkedin.com/in/ajay-84sia">Peter 💻</a>!
+  I'm <a href="https://www.linkedin.com/in/momanyip">Peter 💻</a>
 </h1>
 <h2 align="center">
   A passionate full stack web developer from Kenya
