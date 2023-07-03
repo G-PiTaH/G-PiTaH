@@ -328,7 +328,7 @@ codes are 40% me + 30% stackoverflow +30% google.+ 30%%**
    
   <img
     align="center"
-    src="https://github.com/pitah/pitah/blob/output/github-contribution-grid-snake.svg"
+    src="https://github.com/G-PiTaH/G-PiTaH/blob/output/github-contribution-grid-snake.svg"
     alt="snake"
     width="100%"
   />
