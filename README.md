@@ -65,7 +65,7 @@ sharing happened through open-source.
 projects**
 - 🤝 I’m looking for help with **mentorship**
 - ⚡ Fun fact **all my
-codes are 40% me + 30% stackoverflow +30% google.+ 30%%**
+codes are 40% me + 30% stackoverflow +30% google.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
