@@ -11,7 +11,7 @@
   I'm <a href="https://www.linkedin.com/in/momanyip">Peter 💻</a>
 </h1>
 <h2 align="center">
-  A passionate full stack web developer from Kenya
+  A passionate student developer from Kenya
   <img
     src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"
     width="29"
