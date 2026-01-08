@@ -1,5 +1,5 @@
 <img
-  src="https://media.licdn.com/dms/image/C5112AQEoq9MxhwjOcA/article-cover_image-shrink_600_2000/0/1558900050534?e=2147483647&v=beta&t=S151jyZ2WZGWLfHpE9wj8W4_o1XIflHWJBk881m9R2Y"
+  src="https://spa.edu.tt/wp-content/uploads/2019/12/program_cisco.jpg"
 />
 
 <h1 align="center">
