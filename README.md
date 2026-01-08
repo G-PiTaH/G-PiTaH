@@ -1,5 +1,5 @@
 <img
-  src="https://spa.edu.tt/wp-content/uploads/2019/12/program_cisco.jpg"
+  src="https://integratedit.com/wp-content/uploads/2024/07/IIT-Cloud-Migration-Services-Banner.webp"
 />
 
 <h1 align="center">
@@ -11,21 +11,19 @@
   I'm <a href="https://www.linkedin.com/in/momanyip">Peter 💻</a>
 </h1>
 <h2 align="center">
-  A passionate student developer from Kenya
+  A passionate network engineer from Kenya
   <img
     src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"
     width="29"
   />
 </h2>
 
-- I am a tech-enthusiast, competent, well-focused full-stack developer👨‍💻. I am
-passionate about building fully functional web-applications. I am good in data
-structure and algorithms. - I am also an open-source enthusiast. I learned a lot
-from the open-source community and I love how collaboration and knowledge
-sharing happened through open-source.
+- A passionate network engineering student from Kenya
+I am a tech-enthusiast, competent, and well-focused network engineer and systems architect 👨‍💻. I am passionate about designing, securing, and optimizing robust network infrastructures. I excel in network protocols, traffic analysis, and troubleshooting complex systems. I am also an open-source enthusiast, having learned extensively from the community, and I deeply value collaboration and knowledge sharing through open-source projects.
+
 <p align="center">
 <img
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=21&pause=1000&color=4B33F7&width=435&lines=Fullstack+web+developer+from+Kenya.;Turns+ideas+into+reality!;Loves+the+open-source+community."
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=21&pause=1000&color=4B33F7&width=435&lines=Network+Engineer+from+Kenya.;Building+connected+worlds;Open-source+networking+enthusiast."
     alt="Typing SVG"
 /></a>
 </p>
