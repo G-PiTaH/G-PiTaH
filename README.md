@@ -56,14 +56,12 @@ I am a tech-enthusiast, competent, and well-focused network engineer and systems
   width="50%"
 />
 
-- 🔭 I’m currently taking ALX **bootcamp**
+- 🔭 I’m currently pursuing **HCIP**
 - 🌱 I’m currently learning
-**Back-end frameworks**
-- 👯 I’m looking to collaborate on **front-end
-projects**
-- 🤝 I’m looking for help with **mentorship**
-- ⚡ Fun fact **all my
-codes are 40% me + 30% stackoverflow +30% google.**
+**Automation and cryptography**
+- 👯 I’m looking to collaborate on **Network security and SD-WAN**
+- 🤝 I’m looking for help with **Advanced mentorship in penetration**
+- ⚡ Fun fact **I like when I make things ping BUT Debugging why they're arguing is more rewarding!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
